@@ -32,6 +32,8 @@ cd geospatial_python_series1
 
 ### 4. Copy Workshop Data
 ```bash
+mkdir data
+cd data
 cp /project/rcc/workshops/hamid/spring2025/data/* .
 ```
 
