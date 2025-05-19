@@ -27,7 +27,7 @@ cd workshop
 ### 3. Clone the Workshop Repository
 ```bash
 git clone https://github.com/rccgis-uchicago/geospatial_python_series1.git
-cd intro_geospatial
+cd geospatial_python_series1
 ```
 
 ### 4. Copy Workshop Data
