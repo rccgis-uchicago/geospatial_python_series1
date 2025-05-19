@@ -73,6 +73,11 @@ echo $HOST_IP
 jupyter-lab --no-browser --ip=$HOST_IP --port=15021
 ```
 
+### 11. If you don't have RCC account you can use the Google Colab version which is more limitted
+```bash
+https://colab.research.google.com/drive/1grniOqiLftDslPKwbmB3hAWd8x8c2JwV?usp=sharing
+```
+
 ---
 
 You’re now ready to start working with satellite and climate data on the cluster!
